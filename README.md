@@ -1,7 +1,7 @@
 <img src="Github Cover.gif" />
 
 # 💫 About Me:
-👋 Hi, I’m @omar-sarfraz<br>🔭 I’m currently working on React Web Applications<br>👯 I’m looking to collaborate on any project related to Full Stack Web Development using MERN<br>🌱 I’m currently learning React Native for Mobile Application Development<br>💬 Ask me about HTML, CSS, JavaScript & React<br>⚡ Fun fact: I'm interested in Coding and Productivity. I'm also a lifelong learner<br>📫 Reach me at omar786089@gmail.com
+👋 Hi, I’m @omar-sarfraz<br>🔭 I’m currently working on React Js and Next Js Applications<br>👯 I’m looking to collaborate on any project related to Full Stack Web Development using MERN<br>🌱 I’m currently learning React Native for Mobile Application Development<br>💬 Ask me about HTML, CSS, JavaScript & React<br>⚡ Fun fact: I'm interested in Coding and Productivity. I'm also a lifelong learner<br>📫 Reach me at omar786089@gmail.com
 
 
 ## 🌐 Socials:
