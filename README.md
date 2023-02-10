@@ -1,4 +1,4 @@
-<img src="Github Cover.gif" />
+<img src="Github.gif" />
 
 # 💫 About Me:
 👋 Hi, I’m @omar-sarfraz<br>🔭 I’m currently working on React Native, React Js and Next Js Applications<br>👯 Ping me up for anything related to Computer Science<br>🌱 I’m currently learning React Native for Mobile Application Development<br>💬 Ask me about HTML, CSS, JavaScript, React & React Native<br>⚡ Fun fact: I'm interested in Coding and Productivity. I'm also a lifelong learner<br>📫 Reach me at omar786089@gmail.com
