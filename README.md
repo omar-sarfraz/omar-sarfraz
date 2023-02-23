@@ -1,7 +1,13 @@
 <img src="Github.gif" />
 
 # 💫 About Me:
-👋 Hi, I’m @omar-sarfraz<br>🔭 I’m currently working on React Native, React Js and Next Js Applications<br>👯 Ping me up for anything related to Computer Science<br>🌱 I’m currently learning React Native for Mobile Application Development<br>💬 Ask me about HTML, CSS, JavaScript, React & React Native<br>⚡ Fun fact: I'm interested in Coding and Productivity. I'm also a lifelong learner<br>📫 Reach me at omar786089@gmail.com
+👋 Hi, I'm Omar Sarfraz. </br>
+🔭 I specialize in developing React Native, React JS, and Next JS applications. </br>
+👯 Need help with anything related to Computer Science? Feel free to reach out! </br>
+🌱 Currently, I'm learning React Native to enhance my mobile application development skills. </br>
+💬 I'm knowledgeable in HTML, CSS, JavaScript, React, and React Native. Feel free to ask me anything! </br>
+⚡ Fun fact: I'm passionate about coding, productivity, and lifelong learning. </br>
+📫 You can reach me at omar786089@gmail.com.
 
 
 ## 🌐 Socials:
