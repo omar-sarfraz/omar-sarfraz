@@ -1,9 +1,7 @@
 # 💫 About Me:
 👋 Hi, I'm Omar Sarfraz. </br>
-🔭 I specialize in developing React Native, React JS, and Next JS applications. </br>
-👯 Need help with anything related to Computer Science? Feel free to reach out! </br>
-🌱 Currently, I'm learning React Native Animations to enhance my mobile application development skills. </br>
-💬 I'm knowledgeable in HTML, CSS, JavaScript, React, and React Native. Feel free to ask me anything! </br>
+🔭 I specialize in developing Full stack applications using React, Django, Node and React Native. </br>
+🌱 Currently, I'm working on enterprise side of Edx platform and contributing to OpenEdx as part of my work at ArbiSoft </br>
 ⚡ Fun fact: I'm passionate about coding, productivity, and lifelong learning. </br>
 📫 You can reach me at omar786089@gmail.com.
 
